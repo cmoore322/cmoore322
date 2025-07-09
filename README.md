@@ -8,7 +8,7 @@ Senior at University of North Alabama majoring in IT with a focus in Cybersecuri
 
 * 🌍  I'm based in Alabama
 * ✉️  You can contact me at [cmoore32@una.edu](mailto:cmoore32@una.edu)
-* 🚀  I'm currently working on [Most recent project](http://github.com/cmoore322/Dev-Easy-project)
+* 🚀  I'm currently working on [Most recent project](https://cmoore322.github.io/block_02_connormoore/)
 * 🧠  I'm learning Digital Forensics
 
 ### Skills
