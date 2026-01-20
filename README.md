@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Connor Moore
 ====================================================================================================================================
 
-IT/ Cybersecurity Student, University of North Alabama
+IT/ Cybersecurity Graduate, University of North Alabama
 ------------------------------------------------------
-
-Senior at University of North Alabama majoring in IT with a focus in Cybersecurity. Best with Python and command line scripting.
 
 * 🌍  I'm based in Alabama
 * ✉️  You can contact me at [cmoore32@una.edu](mailto:cmoore32@una.edu)
